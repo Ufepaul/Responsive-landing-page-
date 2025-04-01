@@ -18,9 +18,9 @@
 
     /* Hero Section */
     header {
-      background: url('hero-image.jpg') no-repeat center center/cover; /* Replace 'hero-image.jpg' with your actual image file */
+      background: url('images/schoolbanner.jpg') no-repeat center center/cover; /* Replace 'hero-image.jpg' with your actual image file */
       height: 80vh;
-      color: Red;
+      color: blue;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -104,18 +104,18 @@
   <!-- Features Section -->
   <section class="features">
     <div class="feature">
-      <img src="images/bluehouse.jpg" alt="Feature One Icon">
-      <h2>Feature One</h2>
+      <img src="images/bluehouse.jpg" alt="Innovative approach">
+      <h2>Innovative approach</h2>
       <p>children in this house has an innovative approach in AI development.</p>
     </div>
     <div class="feature">
-      <img src="images/redhouse.jpg" alt="Feature Two Icon">
-      <h2>Feature Two</h2>
+      <img src="images/redhouse.jpg" alt="best ICT">
+      <h2>best ICT</h2>
       <p>this house is best know for it bold ICT innovation breaking unlimied bounds.</p>
     </div>
     <div class="feature">
-      <img src="images/yellohouse.jpg" alt="Feature Three Icon">
-      <h2>Feature Three</h2>
+      <img src="images/yellohouse.jpg" alt="Brain system">
+      <h2>Brain system</h2>
       <p>this house is the brain box of the whole schooling system you will love this .</p>
     </div>
 
